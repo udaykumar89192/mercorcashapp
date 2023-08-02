@@ -1,0 +1,1028 @@
+.cash-app {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.cash-app .div {
+  background-color: var(--light-white);
+  border: 1px none;
+  height: 3695px;
+  position: relative;
+  width: 1366px;
+}
+
+.cash-app .overlap {
+  height: 1469px;
+  left: 0;
+  position: absolute;
+  top: -27px;
+  width: 1366px;
+}
+
+.cash-app .hero-section {
+  background-color: #000000;
+  height: 721px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.cash-app .overlap-group {
+  height: 1360px;
+  position: relative;
+  top: -248px;
+  width: 1360px;
+}
+
+.cash-app .eye-button {
+  height: 36px;
+  left: 1240px;
+  position: absolute;
+  top: 299px;
+  width: 64px;
+}
+
+.cash-app .navbar {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 300px;
+  position: absolute;
+  top: 309px;
+}
+
+.cash-app .text-wrapper {
+  color: #ffffff;
+  font-family: "Agrandir-WideHeavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cash-app .licenses {
+  color: #ffffff;
+  font-family: var(--hero-text-font-family);
+  font-size: var(--hero-text-font-size);
+  font-style: var(--hero-text-font-style);
+  font-weight: var(--hero-text-font-weight);
+  letter-spacing: var(--hero-text-letter-spacing);
+  line-height: var(--hero-text-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cash-app .cashapp-logo {
+  height: 44px;
+  left: 60px;
+  position: absolute;
+  top: 293px;
+  width: 30px;
+}
+
+.cash-app .rays {
+  height: 1360px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1360px;
+}
+
+.cash-app .hero {
+  height: 692px;
+  position: relative;
+  top: 277px;
+  width: 1366px;
+}
+
+.cash-app .overlap-group-2 {
+  height: 692px;
+  position: relative;
+  width: 1360px;
+}
+
+.cash-app .layer {
+  height: 690px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1360px;
+}
+
+.cash-app .h-1 {
+  color: #ffffff;
+  font-family: "Agrandir-WideHeavy", Helvetica;
+  font-size: 193px;
+  font-weight: 400;
+  height: 303px;
+  left: 324px;
+  letter-spacing: 0.5px;
+  line-height: 166px;
+  position: absolute;
+  text-align: center;
+  top: 143px;
+  width: 711px;
+}
+
+.cash-app .intro-phone {
+  height: 453px;
+  left: 495px;
+  object-fit: cover;
+  position: absolute;
+  top: 140px;
+  width: 370px;
+}
+
+.cash-app .APP {
+  color: #ffffff;
+  font-family: "Agrandir-WideHeavy", Helvetica;
+  font-size: 193px;
+  font-weight: 400;
+  height: 303px;
+  left: 324px;
+  letter-spacing: 0.5px;
+  line-height: 166px;
+  position: absolute;
+  text-align: center;
+  top: 217px;
+  width: 711px;
+}
+
+.cash-app .intro-cube {
+  height: 73px;
+  left: 228px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 74px;
+}
+
+.cash-app .intro-cubes {
+  height: 176px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 447px;
+  width: 188px;
+}
+
+.cash-app .intro-pillar {
+  height: 245px;
+  left: 824px;
+  object-fit: cover;
+  position: absolute;
+  top: 447px;
+  width: 288px;
+}
+
+.cash-app .intro-stairs {
+  height: 261px;
+  left: 1022px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 200px;
+}
+
+.cash-app .fixed-footer {
+  height: 65px;
+  left: 60px;
+  position: absolute;
+  top: 885px;
+  width: 1243px;
+}
+
+.cash-app .download-icons {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 56px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+}
+
+.cash-app .buttons {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.cash-app .app-store {
+  align-items: center;
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 7px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 25px;
+  position: relative;
+  width: 170px;
+}
+
+.cash-app .vector {
+  height: 22.82px;
+  margin-bottom: -11.41px;
+  margin-top: -11.41px;
+  position: relative;
+  width: 19.22px;
+}
+
+.cash-app .label {
+  color: #ffffff;
+  font-family: var(--hero-text-font-family);
+  font-size: var(--hero-text-font-size);
+  font-style: var(--hero-text-font-style);
+  font-weight: var(--hero-text-font-weight);
+  letter-spacing: var(--hero-text-letter-spacing);
+  line-height: var(--hero-text-line-height);
+  margin-bottom: -8px;
+  margin-top: -10px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cash-app .google-play {
+  align-items: center;
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 7px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 12px;
+  position: relative;
+  width: 170px;
+}
+
+.cash-app .img {
+  height: 21.22px;
+  position: relative;
+  width: 19.45px;
+}
+
+.cash-app .label-2 {
+  color: #ffffff;
+  font-family: var(--hero-text-font-family);
+  font-size: var(--hero-text-font-size);
+  font-style: var(--hero-text-font-style);
+  font-weight: var(--hero-text-font-weight);
+  letter-spacing: var(--hero-text-letter-spacing);
+  line-height: var(--hero-text-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cash-app .policy-text {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 718px;
+  position: absolute;
+  top: 0;
+}
+
+.cash-app .brokerage-services {
+  color: #b6b6b6;
+  font-family: "Mulish", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  width: 363px;
+}
+
+.cash-app .buttons-2 {
+  height: 24px;
+  left: 1116px;
+  position: absolute;
+  top: 21px;
+  width: 126px;
+}
+
+.cash-app .vector-2 {
+  height: 30px;
+  left: 613px;
+  position: absolute;
+  top: 18px;
+  width: 18px;
+}
+
+.cash-app .section-payments {
+  background-color: #f8f6f6;
+  height: 750px;
+  left: 0;
+  position: absolute;
+  top: 719px;
+  width: 1366px;
+}
+
+.cash-app .overlap-2 {
+  height: 634px;
+  position: relative;
+  top: 116px;
+}
+
+.cash-app .payments-floor {
+  height: 296px;
+  left: 0;
+  position: absolute;
+  top: 317px;
+  width: 1366px;
+}
+
+.cash-app .section-text {
+  height: 147px;
+  left: 236px;
+  position: absolute;
+  top: 112px;
+  width: 353px;
+}
+
+.cash-app .text-wrapper-2 {
+  color: var(--cash-app-green);
+  font-family: "Agrandir-GrandHeavy", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 5px;
+  width: 336px;
+}
+
+.cash-app .send-and-receive {
+  color: #000000;
+  font-family: var(--body-1-regular-16-22-0-3px-font-family);
+  font-size: var(--body-1-regular-16-22-0-3px-font-size);
+  font-style: var(--body-1-regular-16-22-0-3px-font-style);
+  font-weight: var(--body-1-regular-16-22-0-3px-font-weight);
+  left: 1px;
+  letter-spacing: var(--body-1-regular-16-22-0-3px-letter-spacing);
+  line-height: var(--body-1-regular-16-22-0-3px-line-height);
+  position: absolute;
+  top: 58px;
+  width: 352px;
+}
+
+.cash-app .payments-phone {
+  height: 432px;
+  left: 306px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 750px;
+}
+
+.cash-app .payments-column {
+  height: 498px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 793px;
+}
+
+.cash-app .payments-pillar {
+  height: 333px;
+  left: 638px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 210px;
+}
+
+.cash-app .payments-pillar-2 {
+  height: 131px;
+  left: 259px;
+  object-fit: cover;
+  position: absolute;
+  top: 444px;
+  width: 135px;
+}
+
+.cash-app .payments-pillar-3 {
+  height: 254px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 355px;
+  width: 172px;
+}
+
+.cash-app .payments-pillar-4 {
+  height: 254px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 343px;
+  width: 172px;
+}
+
+.cash-app .payments-pillar-5 {
+  height: 184px;
+  left: 658px;
+  object-fit: cover;
+  position: absolute;
+  top: 450px;
+  width: 172px;
+}
+
+.cash-app .payments-pillar-6 {
+  height: 254px;
+  left: 975px;
+  object-fit: cover;
+  position: absolute;
+  top: 211px;
+  width: 172px;
+}
+
+.cash-app .payments-column-2 {
+  height: 401px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 233px;
+  width: 187px;
+}
+
+.cash-app .payments-column-3 {
+  height: 423px;
+  left: 295px;
+  object-fit: cover;
+  position: absolute;
+  top: 211px;
+  width: 810px;
+}
+
+.cash-app .section-banking {
+  background-color: var(--cash-app-green);
+  height: 750px;
+  left: 0;
+  position: absolute;
+  top: 1442px;
+  width: 1366px;
+}
+
+.cash-app .overlap-3 {
+  height: 750px;
+  position: relative;
+  width: 1298px;
+}
+
+.cash-app .overlap-4 {
+  height: 750px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1189px;
+}
+
+.cash-app .overlap-5 {
+  height: 491px;
+  left: 224px;
+  position: absolute;
+  top: 165px;
+  width: 869px;
+}
+
+.cash-app .banking-cubes {
+  height: 139px;
+  left: 629px;
+  object-fit: cover;
+  position: absolute;
+  top: 352px;
+  width: 240px;
+}
+
+.cash-app .banking-track {
+  height: 166px;
+  left: 130px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.cash-app .banking-phone {
+  height: 408px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 350px;
+}
+
+.cash-app .banking-ramp {
+  height: 187px;
+  left: 565px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 280px;
+}
+
+.cash-app .section-text-2 {
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 142px;
+  width: 353px;
+}
+
+.cash-app .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Agrandir-GrandHeavy", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 5px;
+  width: 336px;
+}
+
+.cash-app .receive-your {
+  color: #000000;
+  font-family: var(--body-1-regular-16-22-0-3px-font-family);
+  font-size: var(--body-1-regular-16-22-0-3px-font-size);
+  font-style: var(--body-1-regular-16-22-0-3px-font-style);
+  font-weight: var(--body-1-regular-16-22-0-3px-font-weight);
+  left: 1px;
+  letter-spacing: var(--body-1-regular-16-22-0-3px-letter-spacing);
+  line-height: var(--body-1-regular-16-22-0-3px-line-height);
+  position: absolute;
+  top: 58px;
+  width: 323px;
+}
+
+.cash-app .banking-ramp-2 {
+  height: 194px;
+  left: 157px;
+  object-fit: cover;
+  position: absolute;
+  top: 511px;
+  width: 300px;
+}
+
+.cash-app .banking-track-2 {
+  height: 160px;
+  left: 939px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 250px;
+}
+
+.cash-app .banking-tube {
+  height: 122px;
+  left: 489px;
+  object-fit: cover;
+  position: absolute;
+  top: 628px;
+  width: 150px;
+}
+
+.cash-app .overlap-6 {
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.cash-app .banking-hole {
+  height: 160px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.cash-app .banking-column {
+  height: 200px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 105px;
+  width: 130px;
+}
+
+.cash-app .banking-monster {
+  height: 80px;
+  left: 1178px;
+  object-fit: cover;
+  position: absolute;
+  top: 607px;
+  width: 120px;
+}
+
+.cash-app .banking-stairs {
+  height: 247px;
+  left: 1153px;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 90px;
+}
+
+.cash-app .banking-stairs-2 {
+  height: 223px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 80px;
+}
+
+.cash-app .banking-hole-2 {
+  height: 44px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 706px;
+  width: 380px;
+}
+
+.cash-app .section-cash-card {
+  background-color: #000000;
+  height: 750px;
+  left: 0;
+  position: absolute;
+  top: 2192px;
+  width: 1366px;
+}
+
+.cash-app .overlap-7 {
+  height: 750px;
+  position: relative;
+}
+
+.cash-app .boost-stairs {
+  height: 750px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 929px;
+}
+
+.cash-app .boost-stairs-2 {
+  height: 588px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 162px;
+  width: 379px;
+}
+
+.cash-app .boost-card {
+  height: 134px;
+  left: 976px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 80px;
+}
+
+.cash-app .boost-coffee {
+  height: 101px;
+  left: 978px;
+  object-fit: cover;
+  position: absolute;
+  top: 534px;
+  width: 80px;
+}
+
+.cash-app .boost-hand {
+  height: 93px;
+  left: 1088px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 75px;
+}
+
+.cash-app .boost-phone {
+  height: 509px;
+  left: 558px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 250px;
+}
+
+.cash-app .boost-shoe {
+  height: 80px;
+  left: 1246px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 100px;
+}
+
+.cash-app .boost-burger {
+  height: 93px;
+  left: 882px;
+  object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 70px;
+}
+
+.cash-app .section-text-3 {
+  height: 203px;
+  left: 211px;
+  position: absolute;
+  top: 226px;
+  width: 352px;
+}
+
+.cash-app .cash-card-boost {
+  color: var(--cash-app-green);
+  font-family: "Agrandir-GrandHeavy", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -1px;
+  width: 336px;
+}
+
+.cash-app .p {
+  color: #ffffff;
+  font-family: var(--body-1-regular-16-22-0-3px-font-family);
+  font-size: var(--body-1-regular-16-22-0-3px-font-size);
+  font-style: var(--body-1-regular-16-22-0-3px-font-style);
+  font-weight: var(--body-1-regular-16-22-0-3px-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-regular-16-22-0-3px-letter-spacing);
+  line-height: var(--body-1-regular-16-22-0-3px-line-height);
+  position: absolute;
+  top: 93px;
+  width: 336px;
+}
+
+.cash-app .section-investing {
+  background-color: var(--cash-app-green);
+  height: 750px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 2942px;
+  width: 1366px;
+}
+
+.cash-app .overlap-8 {
+  height: 948px;
+  left: -244px;
+  position: relative;
+  width: 2336px;
+}
+
+.cash-app .investing-floor {
+  background-color: #ffffff;
+  height: 496px;
+  left: 0;
+  position: absolute;
+  top: 452px;
+  width: 2336px;
+}
+
+.cash-app .investing-graph-wrapper {
+  background-image: url(../../../static/img/group.png);
+  background-size: 100% 100%;
+  height: 298px;
+  left: 244px;
+  position: relative;
+  width: 1366px;
+}
+
+.cash-app .investing-graph {
+  height: 268px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.cash-app .investing-rays {
+  height: 750px;
+  left: 244px;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.cash-app .investing-graph-2 {
+  height: 411px;
+  left: 1355px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 255px;
+}
+
+.cash-app .investing-graph-3 {
+  height: 283px;
+  left: 244px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 644px;
+}
+
+.cash-app .section-text-4 {
+  height: 136px;
+  left: 339px;
+  position: absolute;
+  top: 288px;
+  width: 352px;
+}
+
+.cash-app .text-wrapper-4 {
+  color: #000000;
+  font-family: "Agrandir-GrandHeavy", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: -1px;
+  width: 336px;
+}
+
+.cash-app .text-wrapper-5 {
+  color: #000000;
+  font-family: var(--body-1-regular-16-22-0-3px-font-family);
+  font-size: var(--body-1-regular-16-22-0-3px-font-size);
+  font-style: var(--body-1-regular-16-22-0-3px-font-style);
+  font-weight: var(--body-1-regular-16-22-0-3px-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-regular-16-22-0-3px-letter-spacing);
+  line-height: var(--body-1-regular-16-22-0-3px-line-height);
+  position: absolute;
+  top: 47px;
+  width: 352px;
+}
+
+.cash-app .section-text-5 {
+  height: 136px;
+  left: 1187px;
+  position: absolute;
+  top: 288px;
+  width: 336px;
+}
+
+.cash-app .text-wrapper-6 {
+  color: #000000;
+  font-family: var(--body-1-regular-16-22-0-3px-font-family);
+  font-size: var(--body-1-regular-16-22-0-3px-font-size);
+  font-style: var(--body-1-regular-16-22-0-3px-font-style);
+  font-weight: var(--body-1-regular-16-22-0-3px-font-weight);
+  left: 0;
+  letter-spacing: var(--body-1-regular-16-22-0-3px-letter-spacing);
+  line-height: var(--body-1-regular-16-22-0-3px-line-height);
+  position: absolute;
+  top: 47px;
+  width: 336px;
+}
+
+.cash-app .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Agrandir-GrandHeavy", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 798px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 130px;
+  width: 258px;
+}
+
+.cash-app .investing-stocks {
+  height: 344px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 252px;
+  width: 160px;
+}
+
+.cash-app .investing-bitcoin {
+  height: 347px;
+  left: 966px;
+  object-fit: cover;
+  position: absolute;
+  top: 254px;
+  width: 160px;
+}
+
+.cash-app .fixed-footer-2 {
+  height: 65px;
+  left: 305px;
+  position: absolute;
+  top: 680px;
+  width: 1243px;
+}
+
+.cash-app .app-store-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 25px;
+  position: relative;
+  width: 170px;
+}
+
+.cash-app .label-3 {
+  color: #000000;
+  font-family: var(--hero-text-font-family);
+  font-size: var(--hero-text-font-size);
+  font-style: var(--hero-text-font-style);
+  font-weight: var(--hero-text-font-weight);
+  letter-spacing: var(--hero-text-letter-spacing);
+  line-height: var(--hero-text-line-height);
+  margin-bottom: -8px;
+  margin-top: -10px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cash-app .google-play-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 12px;
+  position: relative;
+  width: 170px;
+}
+
+.cash-app .label-4 {
+  color: #000000;
+  font-family: var(--hero-text-font-family);
+  font-size: var(--hero-text-font-size);
+  font-style: var(--hero-text-font-style);
+  font-weight: var(--hero-text-font-weight);
+  letter-spacing: var(--hero-text-letter-spacing);
+  line-height: var(--hero-text-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cash-app .brokerage-services-2 {
+  color: #606060;
+  font-family: "Mulish", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1px;
+  position: relative;
+  width: 363px;
+}

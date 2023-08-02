@@ -1,0 +1,22 @@
+:root {
+  --body-1-regular-16-22-0-3px-font-family: "Mulish-Regular", Helvetica;
+  --body-1-regular-16-22-0-3px-font-size: 16px;
+  --body-1-regular-16-22-0-3px-font-style: normal;
+  --body-1-regular-16-22-0-3px-font-weight: 400;
+  --body-1-regular-16-22-0-3px-letter-spacing: 0.30000001192092896px;
+  --body-1-regular-16-22-0-3px-line-height: 22px;
+  --callibari-font-family: "Inter-SemiBold Italic", Helvetica;
+  --callibari-font-size: 35px;
+  --callibari-font-style: italic;
+  --callibari-font-weight: 600;
+  --callibari-letter-spacing: 0px;
+  --callibari-line-height: normal;
+  --cash-app-green: rgba(0, 213, 75, 1);
+  --hero-text-font-family: "Agrandir-WideHeavy", Helvetica;
+  --hero-text-font-size: 12px;
+  --hero-text-font-style: normal;
+  --hero-text-font-weight: 400;
+  --hero-text-letter-spacing: 0.5px;
+  --hero-text-line-height: 18px;
+  --light-white: rgba(255, 255, 255, 1);
+}
